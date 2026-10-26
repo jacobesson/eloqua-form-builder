@@ -1,0 +1,9 @@
+name,htmlName,dataType,displayType,required,instructions,defaultValue
+First Name,firstName,text,text,true,Enter your first name,
+Last Name,lastName,text,text,true,,
+Email Address,emailAddress,text,text,true,We will never share your email,
+Company,company,text,text,false,,
+Job Title,jobTitle,text,text,false,,
+Phone,businessPhone,text,text,false,,
+Comments,comments,text,textArea,false,Optional feedback,
+Newsletter Opt-In,newsletterOptIn,text,checkbox,false,Subscribe to our newsletter,true
